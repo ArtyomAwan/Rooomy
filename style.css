@@ -1,0 +1,23 @@
+:root {
+    --tblue:#546478;
+    --torange:#fd6600;
+    --lightblack:#404040;
+    --darkblack:#2c2c2c;
+    --gexo:'exo',sans-serif;
+}
+
+.keypoints {
+    margin-top: 40px;
+    background-color:#f8f8f8 ;
+}
+.status-text {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'exo';
+    color:var(--darkblack) ;
+    font-weight: 500;
+
+}
+.steps-arrow {
+    margin-top: -50px;
+}
